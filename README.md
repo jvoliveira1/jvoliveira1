@@ -1,6 +1,6 @@
 I'm a Systems Development, I'm loking for a new step in my caree, schearching for jobs in junior level or trainee.
 
-My focus is to act in Front-End role.
+My focus is to act in Back-End role, using c# and .net.
 
 I'm currently studing and inproving my code.
 
